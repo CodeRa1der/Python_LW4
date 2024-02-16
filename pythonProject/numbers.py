@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 num1 = float(input("Write number 1: "))
 num2 = float(input("Write number 2: "))
 num3 = float(input("Write number 3: "))

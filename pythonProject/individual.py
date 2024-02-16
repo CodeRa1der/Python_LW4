@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from math import sqrt
 
 x1 = float(input("Write X1: "))
